@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Начальная страница](README.md)
-* [От автора](docs/1-ee-untitled.md)
+* [От автора](docs/1-ee-ot-avtora.md)
 
 ## Описание задач <a id="1-opisanie-zadach"></a>
 
