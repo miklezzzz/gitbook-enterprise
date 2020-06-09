@@ -10,11 +10,11 @@
 
 ## Описание процессов <a id="2-opisanie-processov"></a>
 
-* [Процесс 1](docs/2-opisanie-processov/1-process-1.md)
-* [Процесс 2](docs/2-opisanie-processov/2-process-2.md)
+* [Процесс 1](docs/2-opisanie-processov/1-ee-process-1.md)
+* [Процесс 2](docs/2-opisanie-processov/2-ee-process-2.md)
 
 ## Описание условий <a id="3-opisanie-uslovii"></a>
 
-* [Условие 1](docs/3-opisanie-uslovii/1-uslovie-1.md)
-* [Условие 2](docs/3-opisanie-uslovii/2-uslovie-2.md)
+* [Условие 1](docs/3-opisanie-uslovii/1-ee-uslovie-1.md)
+* [Условие 2](docs/3-opisanie-uslovii/2-ee-uslovie-2.md)
 
