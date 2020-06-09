@@ -11,5 +11,5 @@
 ## Описание процессов <a id="2-opisanie-processov"></a>
 
 * [Процесс 1](2-opisanie-processov/1-process-1.md)
-* [Процесс 2](2-opisanie-processov/process-2.md)
+* [Процесс 2](2-opisanie-processov/2-process-2.md)
 
