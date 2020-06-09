@@ -17,6 +17,4 @@
 
 * [Условие 1](3-opisanie-uslovii/1-uslovie-1.md)
 * [Условие 2](3-opisanie-uslovii/2-uslovie-2.md)
-* [Условие 3](3-opisanie-uslovii/3-uslovie-3/README.md)
-  * [Вводная](3-opisanie-uslovii/3-uslovie-3/1-vvodnaya.md)
 
