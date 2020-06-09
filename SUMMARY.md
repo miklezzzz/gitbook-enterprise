@@ -13,8 +13,8 @@
 * [Процесс 1](2-opisanie-processov/1-process-1.md)
 * [Процесс 2](2-opisanie-processov/2-process-2.md)
 
-## Описание условий
+## Описание условий <a id="3-opisanie-uslovii"></a>
 
-* [Условие 1](opisanie-uslovii/1-uslovie-1.md)
-* [Условие 2](opisanie-uslovii/2-uslovie-2.md)
+* [Условие 1](3-opisanie-uslovii/1-uslovie-1.md)
+* [Условие 2](3-opisanie-uslovii/2-uslovie-2.md)
 
