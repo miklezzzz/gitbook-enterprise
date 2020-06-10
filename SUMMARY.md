@@ -19,5 +19,7 @@
 * [Условие 1](docs/3-opisanie-uslovii/1-ee-uslovie-1.md)
 * [Условие 2](docs/3-opisanie-uslovii/2-ee-uslovie-2.md)
 
-## Описание отчеты
+## Описание отчетов <a id="4-opisanie-otchetov"></a>
+
+## Описание описаний <a id="5-opisanie-opisanii"></a>
 
