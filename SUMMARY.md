@@ -23,9 +23,9 @@
 
 ## Описание описаний <a id="5-opisanie-opisanii"></a>
 
-## ОПИСАНИЕ КЛИЕНТОВ
+## ОПИСАНИЕ КЛИЕНТОВ <a id="6-opisanie-klientov"></a>
 
-## ОПИСАНИЕ МЕНЯ
+## ОПИСАНИЕ МЕНЯ <a id="10-opisanie-menya"></a>
 
-* [Я](docs/opisanie-menya/1-ee-ya.md)
+* [Я](docs/10-opisanie-menya/1-ee-ya.md)
 
