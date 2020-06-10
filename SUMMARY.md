@@ -2,6 +2,8 @@
 
 * [Начальная страница](README.md)
 * [От автора](docs/1-ee-ot-avtora.md)
+* [От авторов](docs/2-ee-ot-avtorov.md)
+* [Слова благодарности](docs/10-ee-slova-blagodarnosti.md)
 
 ## Описание задач <a id="1-opisanie-zadach"></a>
 
