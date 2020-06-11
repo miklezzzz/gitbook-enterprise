@@ -10,7 +10,7 @@
 * [Задача 1](docs/1-opisanie-zadach/1-ee-zadacha-1/README.md)
   * [Вводная](docs/1-opisanie-zadach/1-ee-zadacha-1/1-ee-vvodnaya/README.md)
     * [Цели](docs/1-opisanie-zadach/1-ee-zadacha-1/1-ee-vvodnaya/1-ee-celi.md)
-* [Задача 2](docs/1-opisanie-zadach/1-ee-zadacha-2.md)
+* [Задача 2](docs/1-opisanie-zadach/2-ee-zadacha-2.md)
 
 ## Описание процессов <a id="2-opisanie-processov"></a>
 
